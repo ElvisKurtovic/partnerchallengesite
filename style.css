@@ -3,3 +3,7 @@
     background-size: cover;
     height: 60vh;
 }
+
+.borderThicc{
+    border-top: 3px black solid;
+}
